@@ -1,0 +1,224 @@
+<h4>PUROK 1</h4>
+		<h4>Kagawad Christopher Lagapa</h4>
+		<h4>No. of households: 28</h4>
+		<h4>Members:</h4>
+		<p>
+			Mr. & Mrs. Roberto Cinco <br>
+			Mr. & Mrs. Noel Repaldas <br>
+			Mr. & Mrs. Alejandro Lagrosa <br>
+			Mr. & Mrs. Isidro Perocho <br>
+			Mr. & Mrs. Reymelando Vellaver <br>
+			Mr. & Mrs. Marcilo Discallar <br>
+			Mr. & Mrs. Ronie Lagat <br>
+			Mrs. Nilda Rodriguez <br>
+			Mr. & Mrs. Francisco Bautista Sr. <br>
+			Mr. & Mrs. Francisco Bautista Jr. <br>
+			Mrs. Paula Ayunan <br>
+			Mr. & Mrs. Julius Amoy <br>
+			Mr. & Mrs. Daniel Amoy <br>
+			Mr. & Mrs. Eluterio Betonio <br>
+			Mr. & Mrs. Benigno Lapeceros <br>
+			Mr. & Mrs. Ronelo Lapeceros <br>
+			Mrs. Lourdes Balag<br>
+			Mrs. Efefania Perocho <br>
+			Mr. & Mrs. Glecerio Ayunan <br>
+			Mr. & Mrs. Olympio Amoy <br>
+			Mr. & Mrs. Robert Galan <br>
+			Mr. & Mrs. David Crocks <br>
+			Mr. & Mrs. Esmeraldo Galan <br>
+			Mr. & Mrs. Hermogenes Lusica <br>
+			Mr. & Mrs. Maximo Mahinay <br>
+			Mrs. Melania Besinga <br>
+			Mr. & Mrs. Leonilo Curiba <br>
+			Mr. & Mrs. Isidro Perocho <br>
+		</p>
+
+	<h4>PUROK 2</h4>
+		<h4>Kagawad Percela Calape</h4>
+		<h4>No. of households: 20</h4>
+		<h4>Members:</h4>
+		<p>
+			Mrs. Lucila Mina <br>
+			Mr. & Mrs. Jose Muring Jr. <br>
+			Mrs. Martina Muring Jr. <br>
+			Mrs. Salome Curiba <br>
+			Mr. & Mrs. Delfin Curiba Jr. <br>
+			Mr. & Mrs. Nicomedes Lusica <br>
+			Mr. & Mrs. Welbert Lusica <br>
+			Mr. & Mrs. Lucio Pacatang <br>
+			Mr. Sergio Rodriguez <br>
+			Mrs. Verginia Rodriguez <br>
+			Mr. & Mrs. Gaudencio Rodriguez <br>
+			Mr. & Mrs. Rogelio Hinampas <br>
+			Mr. & Mrs. Leoncio Muring <br>
+			Mr. & Mrs. Avelino Escabusa <br>
+			Mr. & Mrs. Artemio Lagrama <br>
+			Mr. & Mrs. Pedro Hinampas <br>
+			Mr. & Mrs. Andres Luengo <br>
+			Mr. Pedro Escabusa <br>
+			Mr. & Mrs. Jesus Escabusa <br>
+			Mr. & Mrs. Elesio Orang <br>
+		</p>
+		
+	<h4>PUROK 3</h4>
+		<h4>Kagawad Marcelo Beroy</h4>
+		<h4>No. of households: 35</h4>
+		<h4>Members:</h4>
+		<p>
+			Mr. & Mrs. Ernesto Cinco <br>
+			Mr. & Mrs. Escolastico Hinampas <br>
+			Mr. & Mrs. Dominggo Perocho <br>
+			Mr. & Mrs. William Calape <br>
+			Mr. & Mrs. Alfredo Bigcas <br>
+			Mr. & Mrs. Valeriano Olaco <br>
+			Mr. & Mrs. Renie Monares <br>
+			Mr. & Mrs. Severino Escabusa Jr. <br>
+			Mr. & Mrs. Rodrigo Calape <br>
+			Mr. & Mrs. Margarito Cimene <br>
+			Mr. & Mrs. Nestor Bigcas <br>
+			Mrs. Rosa Maputol <br>
+			Mrs. Emma Sandigan <br>
+			Mrs. Porferia Espina <br>
+			Mrs. Grace Marie Rodriguez <br>
+			Mr. & Mrs. Roberto Calape <br>
+			Mr. & Mrs. Roman Perocho <br>
+			Mr. & Mrs. Jayson Lintoco <br>
+			Mr. & Mrs. Nelson Madelo <br>
+			Mr. & Mrs. Bonifacio Espina <br>
+			Mr. & Mrs. Alexander Espina <br>
+			Mr. & Mrs. Jerry Tusoy <br>
+			Mr. & Mrs. Anecito Esmone <br>
+			Mrs. Cristuta Espina <br>
+			Mr. Rosito Espina <br>
+			Mr. & Mrs. Jimmy Madelo <br>
+			Mr. & Mrs. Clemente Madelo Sr. <br>
+			Mr. & Mrs. Ernesto Cinco <br>
+			Mr. & Mrs. Alexander Casteleon <br>
+			Mr. & Mrs. Cerilo Espina <br>
+			Mr. & Mrs. Feliciano Beroy <br>
+			Mr. & Mrs. Vistor Espina <br>
+			Mr. & Mrs. Reynaldo Espina <br>\
+			Mr. & Mrs. Liberato Simogan <br>
+			Mrs. Cresencia Sandigan <br>
+		</p>
+
+<h4>PUROK 4</h4>
+		<h4>Kagawad Nestor Rodriguez</h4>
+		<h4>No. of households: 24</h4>
+		<h4>Members:</h4>
+		<p>
+			Mr. & Mrs. Sulfecio Gaco <br>
+			Mr. & Mrs. Edgar Gaco <br>
+			Mr. & Mrs. Elie Gaco <br>
+			Mrs. Jejie Gaco <br>
+			Mr. & Mrs. Bemgever Seloveres <br>
+			Mr. & Mrs. Fotunato Perocho <br>
+			Mr. & Mrs. Evaresto Cimene <br>
+			Mr. & Mrs. Aquilino Rodriguez <br>
+			Mr. & Mrs. Simeon Beroy <br>
+			Mr. & Mrs. Rito Beroy <br>
+			Mr. & Mrs. Along Beroy <br>
+			Mr. & Mrs. Remegilio Beroy <br>
+			Mr. & Mrs. Michael Beroy <br>
+			Mr. & Mrs. Sixto Escabusa <br>
+			Mr. & Mrs. Edgar Escabusa <br>
+			Mr. & Mrs. Crisanto Sanchez <br>
+			Mr. Diosdado Bactasa <br>
+			Mr. & Mrs. Florante Lubay <br>
+			Mr. & Mrs. Richard Bactasa <br>
+			Mr. & Mrs. Regan Pacana <br>
+			Mrs. Romana Halina <br>
+			Mr. & Mrs. Dario Pacana <br>
+			Mr. & Mrs. Rudy Paculares <br>
+			Mrs. Pelegrina Paculares <br>
+		</p>
+
+<h4>PUROK 5</h4>
+		<h4>Kagawad Armando Hibalo</h4>
+		<h4>No. of households: 12</h4>
+		<h4>Members:</h4>
+		<p>
+			Mr. & Mrs. Jose Llanto <br>
+			Mr. & Mrs. Bendanilio <br>
+			Mr. & Mrs. Pablo Baretos <br>
+			Mr. & Mrs. Leo Silva <br>
+			Mr. & Mrs. Eduardo Beroy <br>
+			Mrs. Elena Cabrera <br>
+			Mr. & Mrs. Ricky Silva <br>
+			Mr. & Mrs. Cecelio Sialongo <br>
+			Mr. & Mrs. Guillermo Abella <br>
+			Mrs. Lisa Abella <br>
+			Mrs. Euginia Datahan <br>
+			Mr. Sialongo <br>
+		</p>
+
+<h4>PUROK 6</h4>
+		<h4>Kagawad Ricardo Ampoloquio</h4>
+		<h4>No. of households: 35</h4>
+		<h4>Members:</h4>
+		<p>
+			Mr. & Mrs. Elias Amoy <br>
+			Mr. & Mrs. Romeo Amoy <br>
+			Mr. & Mrs. Erenio Curiba <br>
+			Mr. & Mrs. Adelberto Bendijo <br>
+			Mr. & Mrs. Agapito Curiba <br>
+			Mr. & Mrs. Alfredo Berdedos <br>
+			Mr. & Mrs. Welfredo Curiba Jr.<br>
+			Mrs. Aurilia Cinco <br>
+			Mr. & Mrs. Dioscoro Cinco <br>
+			Mr. & Mrs. Abdon Plaso <br>
+			Mr. & Mrs. Paulo Cayacay <br>
+			Mr. & Mrs. Alfredo Butlig Jr. <br>
+			Mr. Ramil Butlig <br>
+			Mrs. Elsie Busaco <br>
+			Mr. & Mrs. Rolando Repaldas <br>
+			Mr. & Mrs. Marvin Repaldas <br>
+			Mr. & Mrs. Ranie Satueta <br>
+			Mr. & Mrs. Amancio Guantero <br>
+			Mr. Cesario Zamora <br>
+			Mr. & Mrs. Ferdinand Zamora <br>
+			Mr. & Mrs. Antonio Perocho <br>
+			Mr. & Mrs. Valentin Llanto <br>
+			Mrs. Susana Galan <br>
+			Mr. & Mrs. Leonilo Guevarra <br>
+			Mr. & Mrs. Severino Lusica <br>	
+			Mr. & Mrs. Alberto Curiba <br>
+			Ms. Erlinda Curiba <br>
+			Mr. & Mrs. Roberto Orang <br>
+			Mrs. Enoria Curiba <br>
+			Mr. & Mrs. Sammy Butlig <br>
+			Mr. & Mrs. Bado Calape <br>
+			Mr. & Mrs. Rico Ampoloquio <br>
+			Mr. & Mrs. Rolando Orang <br>
+			Mr. & Mrs. Mario Descallar <br>
+			Mr. & Mrs. Renzo Cayacay <br>
+		</p>
+
+<h4>PUROK 6</h4>
+		<h4>Kagawad Rubencio Orang</h4>
+		<h4>No. of households: 22</h4>
+		<h4>Members:</h4>
+		<p>
+			Mrs. Lydia Amolo <br>
+			Mr. & Mrs. Ernesto Cinco <br>
+			Mr. & Mrs. Lelio Repaldas <br>
+			Mr. & Mrs. Artemio Repaldas <br>
+			Mr. & Mrs. Paterno Cayacay <br>
+			Mr. & Mrs. Almer Quieta <br>
+			Mr. & Mrs. Martial  Quantero<br>
+			Mr. & Mrs. Jaimie Curiba <br>
+			Mrs. Carina Curiba <br>
+			Mr. & Mrs. Pablo Orang <br>
+			Mr. & Mrs. Jimmy Escabusa <br>
+			Mr. & Mrs. Rosito Cayacay <br>
+			Mr. & Mrs. Antonio Orang Sr. <br>
+			Mr. & Mrs. Antonio Orang Jr. <br>
+			Mr. & Mrs. Mario Simbajon <br>
+			Mrs. Merlita Beroy <br>
+			Mr. & Mrs. Armando Beroy <br>
+			Mrs. Daisy Rodriguez <br>
+			Mr. & Mrs. Efifanio Baretos <br>
+			Mr. Eduardo Orang <br>
+			Mr. & Mrs. Lito Beroy <br>
+			Mr. & Mrs. Guillermo Ayop <br>
+		</p>
